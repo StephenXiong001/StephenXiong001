@@ -1,18 +1,23 @@
 # StephenXiong
 
-大数据全栈 → 大模型/Agent 方向
+Building LLM/Agent systems from scratch.
 
-## 正在做
-- 从零实现 Agent：ReAct、工具调用、记忆、RAG
-- 每天 2 小时，每周一篇掘金笔记
-- 目标：大模型研发岗 / 大模型研究员
+## Focus
+- **Agent**: ReAct, tool use, memory, RAG, multi-agent
+- **LLM Foundation**: Transformer (hand-written), attention, fine-tuning, inference
+- **Infra**: PyTorch, FSDP, vLLM, training data pipelines
 
-## 技能
+## Current Work
+- Implementing a **GPT from scratch** (attention → transformer block → training loop)
+- Building a **ReAct agent** with tool calling and memory
+- Publishing weekly technical notes on Juejin
+
+## Projects
+- [agent-from-scratch](https://github.com/StephenXiong001/agent-from-scratch) — ReAct loop, tools, memory, RAG
+- [learning-log](https://github.com/StephenXiong001/learning-log) — daily technical notes
+
+## Tech Stack
 Python · PyTorch · Spark · Flink · LLM · Agent
 
-## 项目
-- [agent-from-scratch](https://github.com/StephenXiong001/agent-from-scratch)
-- [learning-log](https://github.com/StephenXiong001/learning-log)
-
-## 找到我
-- 掘金：[我的掘金主页链接](https://juejin.cn/user/939446083266400)
+## Writing
+- Juejin: [<我的掘金主页链接>](https://juejin.cn/user/939446083266400)
