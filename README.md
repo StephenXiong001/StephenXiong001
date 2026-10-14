@@ -1,16 +1,18 @@
-## Hi there 👋
+# StephenXiong
 
-<!--
-**StephenXiong001/StephenXiong001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+大数据全栈 → 大模型/Agent 方向
 
-Here are some ideas to get you started:
+## 正在做
+- 从零实现 Agent：ReAct、工具调用、记忆、RAG
+- 每天 2 小时，每周一篇掘金笔记
+- 目标：大模型研发岗 / 大模型研究员
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 技能
+Python · PyTorch · Spark · Flink · LLM · Agent
+
+## 项目
+- [agent-from-scratch](https://github.com/StephenXiong001/agent-from-scratch)
+- [learning-log](https://github.com/StephenXiong001/learning-log)
+
+## 找到我
+- 掘金：[我的掘金主页链接](https://juejin.cn/user/939446083266400)
